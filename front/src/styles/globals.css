@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+details {
+  background-color: #fff;
+  padding: 17px;
+  border-radius: 5px;
+  width: 280px;
+}
+
+#helloUser {
+  font-size: 34px;
+  margin-left: -150px;
+  font-weight: bold;
+  color: #fff;
+}
+
+p {
+  font-weight: bold;
+}
